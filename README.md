@@ -151,9 +151,9 @@ Contributions are welcome!
 - UI/UX Designer
 - Frontend Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/dharaneesh-44
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/dharaneeshwaran-m-a4a7792a3/
 
 Portfolio: https://yourportfolio.com
 
